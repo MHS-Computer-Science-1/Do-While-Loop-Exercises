@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\bin\Debug\net6.0-windows\Do While Loop Exercises.exe
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\bin\Debug\net6.0-windows\Do While Loop Exercises.deps.json
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\bin\Debug\net6.0-windows\Do While Loop Exercises.runtimeconfig.json
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\bin\Debug\net6.0-windows\Do While Loop Exercises.dll
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\bin\Debug\net6.0-windows\Do While Loop Exercises.pdb
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do_While_Loop_Exercises.Form1.resources
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.dll
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\refint\Do While Loop Exercises.dll
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.pdb
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\Do While Loop Exercises.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\05 Loops\Do While Loop Exercises\Do While Loop Exercises\obj\Debug\net6.0-windows\ref\Do While Loop Exercises.dll
